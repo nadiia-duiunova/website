@@ -102,8 +102,7 @@
 }
 
 .down {
-  font-family: 'Montserrat', sans-serif;
-  color: #da2828;
+  color: #FFF;
   position: absolute;
   bottom: 25px;
   width: 100%;
@@ -118,6 +117,10 @@
   border: none !important;
   outline-style: none !important;
   -moz-outline-style: none !important;
+  
+  .a{
+    font-family: 'Montserrat', sans-serif;
+  }
   .icon {
       position: absolute;
       -webkit-transform-style: preserve-3d;
