@@ -6,7 +6,7 @@ description: To find out
 
 # User settings
 username: Nadiia Duiuinova
-user_description: An aspiring data scientist.
+# user_description: An aspiring data scientist.
 user_title: Data Scientist
 email: nadiia.duiuinova@gmail.com
 cv: my-github-cv-bucket.s3.eu-west-1.amazonaws.com/cv.pdf
