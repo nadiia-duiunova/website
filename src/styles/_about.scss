@@ -8,7 +8,7 @@
     width: 80%;
   }
   svg {
-    position: absolute;
+    margin-top: 13%;
     width: 160px !important;
     height: auto;
   }
@@ -19,6 +19,9 @@
   flex: 1 1 0;
   h2, h3 {
     font-weight: 400;
+  }
+  p{
+    text-align: justify;
   }
 }
 
